@@ -1,7 +1,7 @@
 <Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <PackageId>PoTrace</PackageId>
+    <PackageId>Potrace</PackageId>
     <Version>1.0.0</Version>
     <Authors>xWiiLLz</Authors>
     <TargetFramework>netstandard2.0</TargetFramework>
